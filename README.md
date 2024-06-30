@@ -1,2 +1,3 @@
 # SimpleFunGame
-I have created some simple Games using PYTHON,  on the basis of OOPS concept. 
+I have created some simple Games using the concepts of PYTHON. 
+
